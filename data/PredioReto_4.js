@@ -1,0 +1,1 @@
+var json_PredioReto_4 = {"type":"FeatureCollection","name":"PredioReto_4","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"latitude":19.42492,"longitude":-99.15661,"label":"Predio Reto"},"geometry":{"type":"Point","coordinates":[-99.156605772192179,19.424915145598842]}}]}
